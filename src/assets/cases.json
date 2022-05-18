@@ -1,0 +1,90 @@
+{
+    "cases": [
+        {
+            "title": "A Summer island in the Netherlands",
+            "client": "bol.com",
+            "image": "/images/cases/case-01.png"
+        },
+        {
+            "title": "Not some average banking website",
+            "client": "Kenpen",
+            "image": "/images/cases/case-02.png"
+        },
+        {
+            "title": "Beautiful design meets innovative technology",
+            "client": "Philips",
+            "image": "/images/cases/case-03.png"
+        },
+        {
+            "title": "A 100 years of Mondriaan & De Stijl",
+            "client": "Gemeentemuseum",
+            "image": "/images/cases/case-04.png"
+        },
+        {
+            "title": "Tapping into Ireland`s unique gaming culture and bringing a fresh flavour to their Xbox social media channels",
+            "client": "Microsoft"
+        },
+        {
+            "title": "Integrating existing content into O`Neills`s new e-commerce platform",
+            "client": "O`Neil"
+        },
+        {
+            "title": "Rethinking the entire online ecosystem",
+            "client": "Florensis",
+            "image": "/images/cases/case-07.png"
+        },
+        {
+            "title": "Delivering clarity on a global scale",
+            "client": "Be Lightning",
+            "image": "/images/cases/case-08.png"
+        },
+        {
+            "title": "Swipe to find your next holiday destination",
+            "client": "TUI",
+            "image": "/images/cases/case-09.png"
+        },
+        {
+            "title": "Enhancing customer experience for personalised holiday planning using real time data",
+            "client": "Bultins"
+        },
+        {
+            "title": "Predicting booking behaviour for holidays with smart data, voice search and machine learning",
+            "client": "Vacanseselect"
+        },
+        {
+            "title": "Rethinking the entire online ecosystem",
+            "client": "Florensis",
+            "image": "/images/cases/case-12.png"
+        },
+        {
+            "title": "A campaign for the limited edition letter packs",
+            "client": "Chocomel",
+            "image": "/images/cases/case-13.png"
+        },
+        {
+            "title": "Live like a champion with Jerome Boateng",
+            "client": "JBL",
+            "image": "/images/cases/case-14.png"
+        },
+        {
+            "title": "Innovative SEO and content strategy for Zalando",
+            "client": "Zalando",
+            "image": "/images/cases/case-15.png"
+        },
+        {
+            "title": "The search of the most influential book ever",
+            "client": "Koninklijke Bibliotheek",
+            "image": "/images/cases/case-16.png"
+        },
+        {
+            "title": "Delivering complex commerce solutions",
+            "client": "Liberty global",
+            "image": "/images/cases/case-17.png"
+        },
+        {
+            "title": "Swipe to find your next holiday destination",
+            "client": "Arla",
+            "image": "/images/cases/case-18.png"
+        }
+    ]
+}

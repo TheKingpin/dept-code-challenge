@@ -1,0 +1,68 @@
+{
+    "clients": [
+        {
+            "clientName": "Nivea",
+            "clientLogoURL": "client-logo-01.png"
+        },
+        {
+            "clientName": "Mona",
+            "clientLogoURL": "client-logo-02.png"
+        },
+        {
+            "clientName": "Transavia",
+            "clientLogoURL": "client-logo-03.png"
+        },
+        {
+            "clientName": "Zalando",
+            "clientLogoURL": "client-logo-04.png"
+        },
+        {
+            "clientName": "Tom Tom",
+            "clientLogoURL": "client-logo-05.png"
+        },
+        {
+            "clientName": "Unilever",
+            "clientLogoURL": "client-logo-06.png"
+        },
+        {
+            "clientName": "A.D.I.D.A.S",
+            "clientLogoURL": "client-logo-07.png"
+        },
+        {
+            "clientName": "Pathé",
+            "clientLogoURL": "client-logo-08.png"
+        },
+        {
+            "clientName": "ABN Anro",
+            "clientLogoURL": "client-logo-09.png"
+        },
+        {
+            "clientName": "Triumph",
+            "clientLogoURL": "client-logo-10.png"
+        },
+        {
+            "clientName": "Microsoft",
+            "clientLogoURL": "client-logo-11.png"
+        },
+        {
+            "clientName": "OXXIO",
+            "clientLogoURL": "client-logo-12.png"
+        },
+        {
+            "clientName": "Nationale Nederlanden",
+            "clientLogoURL": "client-logo-13.png"
+        },
+        {
+            "clientName": "Ziggo",
+            "clientLogoURL": "client-logo-14.png"
+        },
+        {
+            "clientName": "Walibi",
+            "clientLogoURL": "client-logo-15.png"
+        },
+        {
+            "clientName": "KLM",
+            "clientLogoURL": "client-logo-16.png"
+        }
+    ]
+}
